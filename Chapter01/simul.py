@@ -150,4 +150,7 @@ def benchmark_memory():
 
 
 if __name__ == '__main__':
-    benchmark()
+    # for benchmarking
+    #benchmark()
+    # for visualization
+    test_visualize()
